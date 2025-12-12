@@ -1,10 +1,11 @@
 # User Centered Design
+## Cooking App Project
 Autumn Semester 2025
 
 Group Members:
-Tyler Wilson
-Marina Köhli
-Henri Kangas
+Tyler Wilson,
+Marina Köhli,
+Henri Kangas,
 Hans-Andrea Danuser
 
 ## Resources
