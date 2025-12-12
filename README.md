@@ -1,4 +1,4 @@
-# User Centered Design
+# Dishcovery - a User Centered Design Project
 ## Cooking App Project
 Autumn Semester 2025
 
